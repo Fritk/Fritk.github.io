@@ -1,0 +1,28 @@
+
+<link href="https://fonts.googleapis.com/css?family=Belleza|Cinzel" rel="stylesheet"> 
+
+body {
+	background-color: red;
+}
+
+h1 {
+	text-align: center;
+font-family: 'Cinzel', cursive;
+}
+
+h2 {text-align: center;
+font-family: 'Cinzel', cursive;
+color: red;
+}
+
+p {
+	font-family: 'Cinzel', cursive;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+ul {font-family: 'Cinzel', cursive;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
