@@ -1,0 +1,64 @@
+
+<link href="https://fonts.googleapis.com/css?family=Belleza|Cinzel" rel="stylesheet"> 
+
+body {
+	background-color: red;
+}
+
+h1 {
+	text-align: center;
+font-family: 'Cinzel', cursive;
+text-transform: uppercase;
+}
+
+h2 {text-align: center;
+font-family: 'Cinzel', cursive;
+color: gray;
+}
+
+h3 {
+	text-align: center;
+font-family: 'Cinzel', cursive;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+p {
+	font-family: 'Cinzel', cursive;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+footer{
+	text-align: center;
+	padding: 1em 0;
+}
+
+header{
+	background-color: #ffed74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
