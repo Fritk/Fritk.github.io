@@ -36,3 +36,27 @@ footer{
 	text-align: center;
 	padding: 1em 0;
 }
+
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left21 {
+	background-color: violet;
+	border: 20px black solid;
+	padding: 10px;
+	float: left;
+	width: 10%;
+}
+
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
