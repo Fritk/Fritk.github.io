@@ -9,11 +9,11 @@ h1 {
 	text-align: center;
 font-family: 'Cinzel', cursive;
 text-transform: uppercase;
-color: blue
 }
 
 h2 {text-align: center;
 font-family: 'Cinzel', cursive;
+color: gray;
 }
 
 h3 {
@@ -36,29 +36,27 @@ footer{
 	text-align: center;
 	padding: 1em 0;
 }
+
+
 #two_column {
-	background-color: gray;
+	background-color: #FFB7CF;
 	border: 1px black solid;
 	padding: 20px;
 }
-#left {
-	
-	padding: 20px;
+
+#left21 {
+	background-color: violet;
+	border: 20px black solid;
+	padding: 10px;
 	float: left;
-	width: 40%;
+	width: 10%;
 }
+
 #right {
-	
-	
+	background-color: pink;
+	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 52%;
+	width: 62%;
 }
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-}
+
