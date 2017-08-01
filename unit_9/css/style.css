@@ -1,0 +1,112 @@
+
+<link href="https://fonts.googleapis.com/css?family=Belleza|Cinzel" rel="stylesheet"> 
+
+body {
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Cinzel', cursive;
+	text-transform: uppercase;
+	color: gray;
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Cinzel', cursive;
+	color: gray;
+	width: 100%;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Cinzel', cursive;
+	width: 100%;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+p {
+	font-family: 'Cinzel', cursive;
+	font-size: 1em;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+footer{
+	text-align: center;
+	padding: 1em 0;
+}
+
+.topnav {
+    background-color: gray;
+    overflow: hidden;
+    font-family: 'Cinzel', cursive;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Cinzel' sursive;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    font-family: 'Cinzel', cursive;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+   }
+
+#two_column {
+	background-color: gray;
+	border: 1em black solid ;
+	padding: 20 em;
+}
+
+#left {
+	padding: 20px;	
+	float: left;
+	width: 30%;
+}
+
+#right {
+	padding: 20px;	
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+@media (max-width: 800px) {
+
+img{
+	width: 320px;
+}
+
+}
+@media (max-width: 480px) {
+
+img{
+	width: 230px;
+}
+
+}
